@@ -9,5 +9,6 @@ int main()
     int b = 200;
     printf("a + b = %d", a + b);
     printf("我是另一个开发者， 这是我添加的代码\n");
+    printf("欢迎欢迎你的加入\n");
     return 0;
 }
