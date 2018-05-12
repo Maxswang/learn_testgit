@@ -8,5 +8,6 @@ int main()
     int a = 100;
     int b = 200;
     printf("a + b = %d", a + b);
+    printf("我是另一个开发者， 这是我添加的代码\n");
     return 0;
 }
